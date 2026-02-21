@@ -1,1 +1,1 @@
-Conflict from terminal
+Conflict resolved: Both GitHub and Terminal changes are here
